@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 
 # Linear regression by using Deep Neural network: 
 # Implement Boston housing price prediction problem 
